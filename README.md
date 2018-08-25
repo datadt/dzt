@@ -13,4 +13,4 @@
 
 3. 发生错误时，重新执行登陆过程中输入用户名、密码、验证码识别整个流程。
 
-![Image](https://d.tqdn.cn/static/images/login_img/0.png?q=1474361980)
+![Image](https://github.com/datadt/dzt/blob/master/dzt.jpg)
