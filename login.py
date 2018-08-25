@@ -5,7 +5,6 @@
 @DateTime:    2018-07-24 12:21:34
 '''
 
-
 from selenium import webdriver
 import re
 import urllib.request
